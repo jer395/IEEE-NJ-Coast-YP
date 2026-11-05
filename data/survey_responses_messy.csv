@@ -1,0 +1,107 @@
+response_id,submitted_on,age,major,home_state,gpa,study_hours_per_week,commute_minutes,lives_on_campus
+R010,2026-09-07,21,BIOLOGY ,nj,2.7,13,51,No
+R037,2026-09-12,20,Psychology,New York,3.89,9,11,Yes
+R023,09/25/2026,19,Business,NJ,4.0,11,33,No
+R096,2026-09-16,18,Bus.,nj,40.0,7,67,No
+R031,2026-09-02,18,Computer Science,Conn.,2.89,-,67,No
+R067,2026-09-27,20,Computer Science,CT,2.73,10+,63,Yes
+R048,2026-09-16,20,Computer Science,NJ,3.31,23,26,No
+R091,2026-09-09,19,Undeclared,NJ,3.1,15,69,Yes
+R088,2026-09-24,20,business,NJ,3.33,8,54,No
+R062,2026-09-19,18,Biology,nj,3.32,3,999,No
+R055,2026-09-09,18,Psych,NY,2.91,6,48,Yes
+R053,2026-09-17,20,Psychology,NY,3.23,22,16,Yes
+R017,2026-09-18,22,Psychology,NJ,N/A,7,30,yes
+R089,2026-09-20,20,Psychology,New York,2.96,11,54,No
+R016,09/27/2026,19,Engineering,NJ,3.62,-5,18,Yes
+R043,2026-09-19,21,Biology,NJ,3.63,8,62,N
+R066,2026-09-18,22,Undeclared,nj,3.22,9,14,
+R073,2026-09-14,20,Engineering,NY,N/A,15,19,No
+R086,2026-09-05,22,Business,NY,2.86,18,17,No
+R022,2026-09-23,19,Psychology,PA,3.57,20,49,Yes
+R085,2026-09-25,22,CS,NJ,2.93,9,61,Yes
+R030,2026-09-21,18,Biology,ny ,3.23,4,41,Yes
+R003,2026-09-03,,Psych,New York,3.54,13,40,Yes
+R060,2026-09-05,22,Engineering,PA,3.6,13,10,No
+R007,2026-09-09,22,Undeclared,New York,3.64,-5,20,yes
+R040,2026-09-19,18,Biology,NY,3.14,22,44,No
+R100,09/16/2026,19,Psychology,NJ,"2,64",11,18,Yes
+R029,2026-09-27,21,Psychology,nj,3.5,10+,65,Yes
+R042,2026-09-18,20,Biology,NJ,3.09,13,57,N
+R021,2026-09-15,19,Psych,NY,2.68,-5,29,No
+R001,2026-09-30,22,Computer Science,PA,"2,65",17,64,no
+R047,2026-09-09,22,Psychology,NJ,3.22,10+,42,Yes
+R079,2026-09-10,19,Computer Science,PA,3.16,8,999,N
+R012,2026-09-16,21,Undeclared,New Jersey,3.17,8,9,Y
+R063,2026-09-06,18,Psych,nj,4.0,6,34,N
+R050,2026-09-02,20,Psychology,nj,4.0,10,8,N
+R098,2026-09-23,18,Undeclared,NJ,"3,37",8,10,No
+R059,2026-09-27,19,Computer Science,NJ,2.89,-,8,No
+R050,2026-09-02,20,Psychology,nj,4.0,10,8,N
+R092,2026-09-28,18,computer science,NY,2.71,16,44,No
+R074,2026-09-12,19,Undeclared,Conn.,,-,31,No
+R019,2026-09-18,19,Bio,NJ,3.2,9,13,no
+R052,2026-09-06,19,Biology,NJ,3.28,7,65,Yes
+R039,2026-09-24,21,,New Jersey,3.41,24,58,No
+R027,2026-09-03,21,Comp Sci,NY,2.41,16,64,No
+R016,09/27/2026,19,Engineering,NJ,3.62,-5,18,Yes
+R020,2026-09-08,22,Bio,NY,3.28,20,63,Yes
+R070,2026-09-26,20,Biology,NJ,3.23,24,24,No
+R079,2026-09-10,19,Computer Science,PA,3.16,8,999,N
+R061,2026-09-04,21,Psychology,ny ,3.15,5,6,Yes
+R090,2026-09-12,18,Engineering,NJ,,21,19,No
+R084,2026-09-05,22,CS,CT,3.59,17,23,No
+R099,2026-09-16,19,Biology,New Jersey,2.7,15,61,yes
+R009,2026-09-11,20,Business,NY,2.69,10,999,No
+R004,2026-09-19,21,Biology,NJ,3.41,2,8,no
+R094,2026-09-02,20,Engineering,ny ,N/A,-5,44,Yes
+R087,09/07/2026,214,Psychology,ny ,3.14,5,7,No
+R036,2026-09-22,22,Undeclared,ny ,"3,51",10,5,No
+R051,2026-09-30,20,Business,CT,3.64,21,8,yes
+R069,2026-09-18,21,Bus.,NJ,3.92,8,999,No
+R054,2026-09-22,20,Psychology,NJ,3.4,17,62,Yes
+R006,2026-09-26,19,Engineering,NJ,4.0,17,48,Yes
+R032,09/21/2026,19,Engineering,NY,2.26,25,10,Y
+R057,09/16/2026,18,Psychology,Pennsylvania,2.78,6,52,no
+R097,2026-09-06,22,Psychology,CT,3.41,17,22,No
+R041,2026-09-16,18,Bus.,NY,2.98,11,23,no
+R078,2026-09-18,19,undecided,NJ,2.78,10,35,No
+R038,2026-09-29,20,psychology ,Pennsylvania,3.05,4,34,N
+R008,2026-09-18,21,Computer Science,PA,3.49,9,25,N
+R015,09/07/2026,,Psych,NJ,3.36,15,61,No
+R045,2026-09-17,18,Biology,CT,3.71,24,64,Y
+R076,2026-09-14,,Business,New Jersey,"3,08",20,50,Yes
+R058,2026-09-01,20,Psychology,NJ,3.42,14,9,Yes
+R011,2026-09-27,21,undecided,NY,"3,52",10,47,no
+R080,2026-09-30,20,Biology,NJ,3.29,16,57,Yes
+R028,2026-09-30,20,psychology ,PA,2.38,-,54,Yes
+R024,2026-09-13,20,Computer Science,NJ,3.57,24,30,No
+R065,Sep 02 2026,22,Undeclared,New Jersey,3.32,12,25,no
+R044,2026-09-09,20,Bus.,NJ,2.74,25,23,No
+R071,2026-09-07,20,Psychology,NJ,3.95,14,47,No
+R068,2026-09-04,20,Biology,NJ,3.69,7,56,N
+R018,2026-09-11,22,Biology,New York,3.08,6,61,Yes
+R095,09/24/2026,214,Business,NY,3.91,23,27,Yes
+R027,2026-09-03,21,Comp Sci,NY,2.41,16,64,No
+R038,2026-09-29,20,psychology ,Pennsylvania,3.05,4,34,N
+R075,2026-09-03,21,Engineering,CT,40.0,15,32,No
+R002,2026-09-26,21,Business,NJ,3.5,11,7,Yes
+R013,09/15/2026,20,Business,NY,2.6,9,26,yes
+R035,2026-09-03,19,Biology,NJ,3.21,23,36,
+R005,2026-09-29,18,biology,PA,4.0,7,28,No
+R046,2026-09-07,21,Psychology,NJ,3.86,5,20,Yes
+R033,2026-09-08,19,Engineering,NY,2.63,13,28,No
+R049,2026-09-20,22,Business,NJ,2.56,7,51,Yes
+R093,2026-09-14,18,,NJ,3.12,18,7,No
+R025,2026-09-22,19,Psychology,nj,2.55,15,29,No
+R083,2026-09-30,18,Psychology,Pennsylvania,3.24,3,54,Yes
+R072,2026-09-08,19,Psychology,NJ,,16,31,Yes
+R034,2026-09-29,19,Bus.,PA,N/A,7,42,yes
+R077,09/28/2026,21,Comp Sci,PA,3.48,3,41,No
+R014,2026-09-16,18,Business,nj,,14,53,Yes
+R056,09/21/2026,22,Business,NJ,3.33,2,44,Yes
+R082,2026-09-07,21,Business,NY,2.79,11,999,No
+R092,2026-09-28,18,computer science,NY,2.71,16,44,No
+R081,2026-09-03,21,Biology,NY,2.87,23,10,N
+R064,2026-09-13,19,Computer Science,PA,3.56,12,13,
+R026,2026-09-15,19,Biology,New Jersey,3.24,11,6,Y
